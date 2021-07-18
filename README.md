@@ -1,5 +1,5 @@
 # Linked-List-Palindrome
-Reverse and compare algorithm for palindrome detection of linked list
+Reverse and compare algorithm for palindrome detection of Singly linked list
 
 Check to see if a Linked List is a palindrome. A palindrome is when a word or phrase is the same thing backwards.
 ex: TACO CAT --> TAC OCAT =True (ignore spaces)
